@@ -158,3 +158,9 @@ GitHub: [https://github.com/LucasMateus22331](https://github.com/LucasMateus2233
 <img width="1920" height="1074" alt="Captura de tela 2026-03-04 150439" src="https://github.com/user-attachments/assets/6fc393e4-edfa-4e14-8a8a-9976710315ef" />
 
 Baixe a extencao  Thunder Client , clique em New request troque o metodo para POST, e em Body coloque como JSON
+
+<img width="559" height="344" alt="Captura de tela 2026-03-04 150948" src="https://github.com/user-attachments/assets/66ce97d8-b823-4edd-8739-33ab894d0b31" />
+
+Procure a pasta onde esta o projeto, de ls para identificar a pasta, no meu caso a minha era "11 proj"
+
+
