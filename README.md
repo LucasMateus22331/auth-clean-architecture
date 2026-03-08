@@ -163,4 +163,7 @@ Baixe a extencao  Thunder Client , clique em New request troque o metodo para PO
 
 Procure a pasta onde esta o projeto, de ls para identificar a pasta, no meu caso a minha era "11 proj"
 
+<img width="562" height="340" alt="Captura de tela 2026-03-04 151025" src="https://github.com/user-attachments/assets/e079a72d-091c-4751-9a10-c8161da21d59" />
+
+de um CD ("nome da pasta") e  estara dentro dela e podera dar o git init : push  para por no git hub ou ate mesmo clonar
 
