@@ -167,3 +167,6 @@ Procure a pasta onde esta o projeto, de ls para identificar a pasta, no meu caso
 
 de um CD ("nome da pasta") e  estara dentro dela e podera dar o git init : push  para por no git hub ou ate mesmo clonar
 
+Obs: projeto feito para aprender e se desenvolver
+
+
